@@ -14,5 +14,4 @@ Simple weekend projects for rendering texture using raylib and adding few game s
 
 ## Demo video
 
-![Demo Video](https://github.com/user-attachments/assets/3bcec04f-42f6-4939-a2cf-c32cd3af3ff5)
-
+https://github.com/user-attachments/assets/3bcec04f-42f6-4939-a2cf-c32cd3af3ff5
