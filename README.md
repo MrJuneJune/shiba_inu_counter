@@ -12,4 +12,6 @@ Simple weekend projects for rendering texture using raylib and adding few game s
 ./start.sh
 ```
 
-## Screenshots
+## Demo video
+
+![Demo Video](./demo_shiba_inu.mp4)
